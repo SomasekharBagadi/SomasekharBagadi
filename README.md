@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SomasekharBagadi
-- 👀 I’m interested in Python Programming,Image Processing and Data Analytics
+- 👀 I’m interested in Python Programming,Image Processing and Data Analytics and customer support roles
 - 🌱 I’m currently learning Python and Open CV
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
